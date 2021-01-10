@@ -1,0 +1,6 @@
+env
+data/mask
+data/no_mask
+.vscode
+.ipynb_checkpoints
+.DS_store
