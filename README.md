@@ -12,13 +12,15 @@
 
 Run the following commands:
 
-`virtualenv env --python=3.8`
+```Shell
+virtualenv env --python=3.8
 
-`source env/bin/activate`
+source env/bin/activate
 
-`pip3 install -r requirements.txt`
+pip3 install -r requirements.txt
 
-`jupyter notebook`
+jupyter notebook
+```
 
 ## Requirements
 
